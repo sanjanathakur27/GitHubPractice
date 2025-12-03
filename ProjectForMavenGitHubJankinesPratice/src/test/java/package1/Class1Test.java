@@ -8,6 +8,8 @@ public class Class1Test {
 	public void class1()
 	{
 		Reporter.log("**********Er.Sanjana Thakur*********",true);
+		Reporter.log("**********Er.Sanjana Thakur*********",true);
+
 	}
 	
 }
