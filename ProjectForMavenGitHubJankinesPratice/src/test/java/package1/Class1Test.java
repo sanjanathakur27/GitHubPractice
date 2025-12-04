@@ -9,6 +9,8 @@ public class Class1Test {
 	{
 		Reporter.log("**********Er.Sanjana Thakur*********",true);
 		Reporter.log("**********Er.Sanjana Thakur*********",true);
+		Reporter.log("**********Bye.Sanjana Thakur*********",true);
+		
 
 	}
 	
